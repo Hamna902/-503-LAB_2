@@ -2,7 +2,7 @@
 Lab 2 performance in class
 <html> 
 <head>
-<title>SE-503</title>
+SE-503
 </head> 
   <body> 
   <h1>Performing 2nd Lab Practical in class</h1>
